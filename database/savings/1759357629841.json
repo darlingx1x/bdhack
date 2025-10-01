@@ -1,0 +1,18 @@
+{
+  "id": "1759357629841",
+  "user_id": "mock-user-id",
+  "title": "mustang 2026",
+  "description": "",
+  "target_amount": 55000,
+  "current_amount": 0,
+  "currency": "USD",
+  "image_url": "",
+  "deadline": null,
+  "priority": 5,
+  "privacy": "public_full",
+  "show_amounts": true,
+  "is_completed": false,
+  "completed_at": null,
+  "created_at": "2025-10-01T22:27:09.841Z",
+  "updated_at": "2025-10-01T22:27:09.841Z"
+}
