@@ -1,0 +1,15 @@
+{
+  "id": "1759415909070",
+  "user_id": "mock-user-id",
+  "title": "34134",
+  "description": "",
+  "category": "personal",
+  "started_at": "2025-10-02T14:38:29.070Z",
+  "completed_at": null,
+  "is_active": true,
+  "privacy": "public",
+  "support_count": 0,
+  "fire_count": 0,
+  "created_at": "2025-10-02T14:38:29.071Z",
+  "updated_at": "2025-10-02T14:38:29.071Z"
+}
