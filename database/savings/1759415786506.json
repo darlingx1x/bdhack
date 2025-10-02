@@ -4,7 +4,7 @@
   "title": "test5",
   "description": "",
   "target_amount": 15000000,
-  "current_amount": 0,
+  "current_amount": 500000,
   "currency": "UZS",
   "image_url": "",
   "deadline": null,
@@ -14,5 +14,5 @@
   "is_completed": false,
   "completed_at": null,
   "created_at": "2025-10-02T14:36:26.506Z",
-  "updated_at": "2025-10-02T14:36:26.507Z"
+  "updated_at": "2025-10-02T14:36:29.306Z"
 }
