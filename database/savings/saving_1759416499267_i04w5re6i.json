@@ -1,0 +1,18 @@
+{
+  "id": "saving_1759416499267_i04w5re6i",
+  "user_id": "user_1759410083652_sjdm1ec2e",
+  "current_amount": 0,
+  "is_completed": false,
+  "completed_at": null,
+  "created_at": "2025-10-02T14:48:19.267Z",
+  "updated_at": "2025-10-02T14:48:19.267Z",
+  "title": "2352",
+  "description": "",
+  "target_amount": 1000,
+  "currency": "UZS",
+  "image_url": "",
+  "deadline": null,
+  "priority": 1,
+  "privacy": "public_full",
+  "show_amounts": true
+}
