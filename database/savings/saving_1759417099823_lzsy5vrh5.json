@@ -1,0 +1,18 @@
+{
+  "id": "saving_1759417099823_lzsy5vrh5",
+  "user_id": "user_1759410083652_sjdm1ec2e",
+  "current_amount": 0,
+  "is_completed": false,
+  "completed_at": null,
+  "created_at": "2025-10-02T14:58:19.823Z",
+  "updated_at": "2025-10-02T14:58:19.823Z",
+  "title": "2352ке",
+  "description": "",
+  "target_amount": 1000,
+  "currency": "USD",
+  "image_url": "",
+  "deadline": null,
+  "priority": 2,
+  "privacy": "public_full",
+  "show_amounts": true
+}
