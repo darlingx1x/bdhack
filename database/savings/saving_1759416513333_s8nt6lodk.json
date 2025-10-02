@@ -1,0 +1,18 @@
+{
+  "id": "saving_1759416513333_s8nt6lodk",
+  "user_id": "user_1759410083652_sjdm1ec2e",
+  "current_amount": 0,
+  "is_completed": false,
+  "completed_at": null,
+  "created_at": "2025-10-02T14:48:33.333Z",
+  "updated_at": "2025-10-02T14:48:33.333Z",
+  "title": "12124d",
+  "description": "",
+  "target_amount": 1000,
+  "currency": "USD",
+  "image_url": "",
+  "deadline": null,
+  "priority": 1,
+  "privacy": "public_full",
+  "show_amounts": true
+}
