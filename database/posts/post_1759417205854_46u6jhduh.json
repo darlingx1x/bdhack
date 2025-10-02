@@ -1,0 +1,24 @@
+{
+  "id": "post_1759417205854_46u6jhduh",
+  "user_id": "darx",
+  "content": "tra7",
+  "type": "goal_mention",
+  "mentioned_item": {
+    "type": "goal",
+    "id": "goal_1759416442059_lz1hsalyx",
+    "title": "tex25 ",
+    "emoji": "🎯",
+    "category": "study"
+  },
+  "reactions": {
+    "support": 0,
+    "fire": 0,
+    "love": 0,
+    "celebrate": 0,
+    "thumbs_up": 0
+  },
+  "comments_count": 0,
+  "created_at": "2025-10-02T15:00:05.854Z",
+  "updated_at": "2025-10-02T15:00:05.854Z",
+  "privacy": "public"
+}
