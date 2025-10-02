@@ -1,0 +1,27 @@
+{
+  "id": "user_1759410083652_sjdm1ec2e",
+  "username": "darx",
+  "email": "warhorr@mail.ru",
+  "github_username": "darx",
+  "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=darx",
+  "bio": "Строю своё будущее",
+  "created_at": "2025-10-02T13:01:23.655Z",
+  "updated_at": "2025-10-02T13:01:23.655Z",
+  "settings": {
+    "theme": "dark",
+    "default_goal_privacy": "private",
+    "default_saving_privacy": "private",
+    "show_amounts": false,
+    "notifications_enabled": true
+  },
+  "stats": {
+    "followers_count": 0,
+    "following_count": 3,
+    "goals_completed": 0,
+    "current_streak": 0,
+    "last_activity_date": "2025-10-02"
+  },
+  "is_privileged": false,
+  "password": "qwertysenpaiB1",
+  "is_new": true
+}
