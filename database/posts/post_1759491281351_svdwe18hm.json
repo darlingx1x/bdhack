@@ -1,0 +1,17 @@
+{
+  "id": "post_1759491281351_svdwe18hm",
+  "user_id": "darling",
+  "content": "hello",
+  "type": "text",
+  "reactions": {
+    "support": 0,
+    "fire": 0,
+    "love": 0,
+    "celebrate": 0,
+    "thumbs_up": 0
+  },
+  "comments_count": 0,
+  "created_at": "2025-10-03T11:34:41.351Z",
+  "updated_at": "2025-10-03T11:34:41.351Z",
+  "privacy": "public"
+}
