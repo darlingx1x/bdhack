@@ -5,11 +5,11 @@
   "description": "",
   "category": "personal",
   "started_at": "2025-10-03T20:36:03.668Z",
-  "completed_at": null,
-  "is_active": true,
+  "completed_at": "2025-10-03T20:36:37.338Z",
+  "is_active": false,
   "privacy": "public",
   "support_count": 0,
   "fire_count": 0,
   "created_at": "2025-10-03T20:36:03.668Z",
-  "updated_at": "2025-10-03T20:36:03.668Z"
+  "updated_at": "2025-10-03T20:36:37.338Z"
 }
